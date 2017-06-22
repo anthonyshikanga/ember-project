@@ -16,6 +16,16 @@ module.exports = function(environment) {
         Date: false
       }
     },
+    firebase:{
+      apiKey: "AIzaSyCXHXcYlG-0EDO9IteFrQi6VzTTReEexzg",
+      authDomain: "movie-700ef.firebaseapp.com",
+      databaseURL: "https://movie-700ef.firebaseio.com",
+      projectId: "movie-700ef",
+      storageBucket: "movie-700ef.appspot.com",
+      messagingSenderId: "76230623551"
+    },
+
+
 
     APP: {
       // Here you can pass flags/options to your application instance
