@@ -1,1 +1,21 @@
+{{#if addNewMovie}}
+  <h1>New Movie</h1>
+  <div>
+    <form>
+      <div class="form-group">
+        <label for="author">Author</label>
+        {{input value=author id="author"}}
+      </div>
+
+      <div class="form-group">
+        <label for="name">Movie</label>
+        {{input value=name id="name"}}
+      </div>
+      <button type="button" class="btn btn-primary" {{action 'saveMovie1'}}>get reviews</button>
+      <button type="button" class="btn btn-danger"{{action 'cancelMovieForm'}}>Cancel</button>
+    </form>
+  </div>
+{{else}}
+  <button type="button" class="btn btn-primary"{{action 'movieFormShow'}}>post</button>
+{{/if}}
 {{yield}}
