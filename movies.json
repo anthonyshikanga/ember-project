@@ -1,0 +1,30 @@
+{ "movies": [{
+    "director": "Martin Scorcece",
+    "name": "The Wolf of Wall Street",
+    "description": "A New York stockbroker declines to coordinate in an expansive securities extortion case including debasement on Wall Street, corporate saving money world and crowd invasion. In view of Jordan Belfort's collection of memoirs.",
+    "year": 2013,
+    "image": "https://resizing.flixster.com/duwhG_8zVJWACCVQ7cT5xpRplJk=/206x305/v1.bTsxMTE3Njk3NjtqOzE3NDU0OzEyMDA7ODAwOzEyMDA",
+    "stream": "http://vumoo.li/videos/play/watch-the-wolf-of-wall-street-870",
+    "rating": "8.3",
+    "actor": "Leonardo DiCaprio"
+
+  }, {
+    "director": "Max Joseph",
+    "name": "We are your friends",
+    "description": "Set in the world of electronic music and Hollywood nightlife, an aspiring 23-year-old DJ named Cole spends his days scheming with his childhood friends and his nights working on the one track that will set the world on fire. Opportunity comes knocking when he meets James Reed, a charism ",
+    "year": 2015,
+    "image": "https://resizing.flixster.com/13mrWWCbrO-WPDI31GMaE-rNqQk=/206x305/v1.bTsxMTIwMzQwODtqOzE3NDU0OzEyMDA7MTc1OzIzOQ",
+    "stream": "http://vumoo.li/videos/play/watch-we-are-your-friends-86547",
+    "rating": "6.9",
+    "actor": "Zac Efron"
+  }, {
+    "director": "Von Bochum",
+    "name": "The Belko Experiment",
+    "description": " On what has all the earmarks of being an ordinary day at Belko Industries in Sao Paulo, Brazil, Belko representatives are shocked to find that they've gotten to be guinea pigs in an all inclusive test which will lead them to either kill their kindred workers or be killed themselves. The examination is planned by a baffling voice which is controlling the amplifier and training the workers to butcher each other by any methods vital.",
+    "year": 2017,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/The_Belko_Experiment_poster.jpg/220px-The_Belko_Experiment_poster.jpg",
+    "stream": "http://vumoo.li/videos/play/watch-the-belko-experiment-93360",
+    "rating": "7.3",
+    "actor": "Olly Debby"
+  }]
+}
