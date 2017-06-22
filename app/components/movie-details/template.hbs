@@ -1,1 +1,11 @@
+<h3>By: {{movie.name}}</h3>
+<h2>{{movie.year}}</h2>
+
+<h2> Reviews </h2>
+<ul>
+  {{#each movie.reviews as |review|}}
+    {{review-tile review=review}}
+  {{/each}}
+</ul>
+
 {{yield}}
