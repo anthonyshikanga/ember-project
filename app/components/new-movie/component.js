@@ -19,10 +19,12 @@ export default Ember.Component.extend({
         rating: this.get('rating'),
         image: this.get('image'),
         stream: this.get('stream'),
+        actor: this.get('actor'),
 
 
       };
       this.set('name',null);
+      this.set('actor',null);
       this.set('year',null);
       this.set('description',null);
       this.set('director',null);
