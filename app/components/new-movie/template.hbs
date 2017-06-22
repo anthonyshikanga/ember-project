@@ -11,6 +11,35 @@
         <label for="name">Movie</label>
         {{input value=name id="name"}}
       </div>
+      <div class="form-group">
+        <label for="director">Movie</label>
+        {{input value=name id="name"}}
+      </div>
+      <div class="form-group">
+        <label for="actor">starring:</label>
+        {{input value=actor id="actor"}}
+      </div>
+      <div class="form-group">
+        <label for="year">Released</label>
+        {{input value=year id="year"}}
+      </div>
+      <div class="form-group">
+        <label for="rating">Ratings(1-10)</label>
+        {{input value=rating id="rating"}}
+      </div>
+      <div class="form-group">
+        <label for="description">Synopsis</label>
+        {{input value=description id="description"}}
+      </div>
+      <div class="form-group">
+        <label for="image">Image Url</label>
+        {{input value=image id="image"}}
+      </div>
+      <div class="form-group">
+        <label for="stream">Stream Url</label>
+        {{input value=stream id="stream"}}
+      </div>
+
       <button type="button" class="btn btn-primary" {{action 'saveMovie1'}}>get reviews</button>
       <button type="button" class="btn btn-danger"{{action 'cancelMovieForm'}}>Cancel</button>
     </form>
